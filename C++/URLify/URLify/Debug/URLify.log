@@ -1,0 +1,4 @@
+﻿  Converter.cpp
+c:\users\cole\desktop\interviewpractice\c++\urlify\urlify\converter.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\cole\desktop\interviewpractice\c++\urlify\urlify\converter.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  URLify.vcxproj -> C:\Users\Cole\Desktop\InterviewPractice\C++\URLify\Debug\URLify.exe
