@@ -36,7 +36,7 @@ int main(int argc, char* args[])
 		std::cout << "Solution one: permutation of the other" << std::endl;
 	}
 	if (checker.SolutionTwo(str1, str2)) {
-		std::cout << "Solution one: permutation of the other" << std::endl;
+		std::cout << "Solution two: permutation of the other" << std::endl;
 	}
 }
 // this ones in the book
