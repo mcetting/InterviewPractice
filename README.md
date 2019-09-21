@@ -1,2 +1,2 @@
 # InterviewPractice
-These are interview question answers with my solutios.
+These are interview question answers with my solutions.
